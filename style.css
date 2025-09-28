@@ -1,0 +1,4 @@
+body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; }
+.card { border: none; border-radius: 1rem; }
+.btn { border-radius: 0.75rem; }
+.table thead th { white-space: nowrap; }
